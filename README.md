@@ -1,4 +1,4 @@
-### Hi coder, I'm **Annastaasia** 👩‍💻 ☑️
+### Hi coder, I'm **Annastaasia** 👩‍💻:woman:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Annastaasia's+Github+Profile..)](https://git.io/typing-svg)
 
