@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Annastaasia's+Github+Profile..)](https://git.io/typing-svg)
 
+<!--
 ### About me
 I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Toronto, Canada 
 
@@ -29,7 +30,7 @@ I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Toronto, Ca
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!--
+
 **Annastaasia/Annastaasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
