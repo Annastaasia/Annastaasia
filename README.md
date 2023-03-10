@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Annastaasia's+Github+Profile..)](https://git.io/typing-svg)
 
-<!--
-### About me
-I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Toronto, Canada 
 
+### About me
+I'm a **Frontend Developer** from Saint-Petersburg
+
+<!--
 ⏳🌱 Learning: React    
 🥰 Love animals   
 🏋🏻‍♀️ Take up Crossfit    
