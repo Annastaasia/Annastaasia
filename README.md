@@ -8,6 +8,8 @@ I'm a **Frontend Developer** from Saint-Petersburg
   <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47epd1vo2xunmz1wz9ywy4ycfiohlwpoclwqy41482&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
+### About me:
+
 - 💻 Working on Javascript, ReactJS, Node.js
 - 📘 Learning TypeScript
 - 🥰 Ask me about IT, travel and Genshin 
