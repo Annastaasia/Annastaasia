@@ -19,7 +19,9 @@ I'm a **Frontend Developer** from Saint-Petersburg
 - <a href="https://www.linkedin.com/in/anastasiya-shitenkova/" target="blank">LinkedIn</a>
 - <a href="corvusmilya@mail.ru" target="blank">E-mail</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
+[![Annastaasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annastaasia)](https://github.com/Annastaasia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Technologies:
 <div>
@@ -76,4 +78,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
 -->
