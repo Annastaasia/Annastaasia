@@ -8,9 +8,9 @@
 
 ### I'm a **Frontend Developer** from Saint-Petersburg
 
-- 💻 Working on Javascript, ReactJS, Node.js
-- 📘 Learning TypeScript
-- 🥰 Ask me about IT, travel and Genshin 
+ 💻 Working on Javascript, ReactJS, Node.js
+-📘 Learning TypeScript
+-🥰 Ask me about IT, travel and Genshin 
 
 ### Connect with me:
 - <a href="https://t.me/Nemezida_Ok" target="blank">Telegram</a>
@@ -33,6 +33,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>
 
 
@@ -41,10 +45,7 @@
 <!--
 :do:
 - 📖 I have a <a href="https://t.me/frontendzapiski" target="blank">channel</a> about frontend development
-⏳ Learning: React    
-🥰 Love animals   
-🏋🏻‍♀️ Take up Crossfit    
-
+   
 ### ⌚ Want to learn in the nearest future:
 - Redux
 - TypeScript
@@ -60,6 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ### Visitor count:
