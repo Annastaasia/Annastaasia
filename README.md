@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Annastaasia's+Github+Profile..)](https://git.io/typing-svg)
 
 <div id="header" align="start">
-  <img width="650" height="320" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47epd1vo2xunmz1wz9ywy4ycfiohlwpoclwqy41482&rid=giphy.gif&ct=g" />
+  <img width="600" height="300" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47epd1vo2xunmz1wz9ywy4ycfiohlwpoclwqy41482&rid=giphy.gif&ct=g" />
 </div>
 
 <h2 align="left"> I'm a Frontend Developer from Saint-Petersburg</h2>
