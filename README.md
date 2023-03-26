@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Annastaasia's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm a **Frontend Developer** from Saint-Petersburg
-
 <div id="header" align="start">
   <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47epd1vo2xunmz1wz9ywy4ycfiohlwpoclwqy41482&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
-### About me:
+### I'm a **Frontend Developer** from Saint-Petersburg
 
 - 💻 Working on Javascript, ReactJS, Node.js
 - 📘 Learning TypeScript
@@ -19,24 +17,26 @@ I'm a **Frontend Developer** from Saint-Petersburg
 - <a href="https://www.linkedin.com/in/anastasiya-shitenkova/" target="blank">LinkedIn</a>
 - <a href="corvusmilya@mail.ru" target="blank">E-mail</a>
 
+### Profile statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
-
-[![Annastaasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annastaasia)](https://github.com/Annastaasia/github-readme-stats)
-
+<img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
+<img width="auto" src="https://github-readme-stats.vercel.app/api?username=Annastaasia">
 
 
 ### Technologies:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/108359930/221673250-00e9fda0-73c7-4e57-8911-e452fa852d6c.png" title="SASS" **alt="SASS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/108359930/221673250-00e9fda0-73c7-4e57-8911-e452fa852d6c.png" title="SASS" alt="SASS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
+
+
+
 
 <!--
 :do:
@@ -49,11 +49,6 @@ I'm a **Frontend Developer** from Saint-Petersburg
 - Redux
 - TypeScript
 - Vuejs 
-
-### 📫 How to reach me:
-- <a href="https://www.linkedin.com/in/olga-bulgakova-014254243/" target="blank">LinkedIn</a>
-- <a href="https://t.me/bio_ol23" target="blank">Telegram</a>
-- <a href="oska43@mail.ru" target="blank">E-mail</a>
 
 ### Technologies:
 <div>
@@ -68,15 +63,15 @@ I'm a **Frontend Developer** from Saint-Petersburg
 </div>
 
 ### Visitor count:
-<img src="https://profile-counter.glitch.me/Annastaasia/count.svg"/>
+<img src="https://profile-counter.glitch.me/sssheina/count.svg" />
 </br>
 </br>
 Thank you for visiting my profile 
 
+[![Annastaasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annastaasia)](https://github.com/Annastaasia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
 
-
-
-<!--**Annastaasia/Annastaasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Annastaasia/Annastaasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -91,4 +86,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&hide_progress=true)](https://github.com/Annastaasia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
+
+### Visitor count:
+<img src="https://profile-counter.glitch.me/Annastaasia/count.svg" />
+</br>
+</br>
+Thank you for visiting my profile 
 -->
