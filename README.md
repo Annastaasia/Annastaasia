@@ -3,27 +3,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Annastaasia's+Github+Profile..)](https://git.io/typing-svg)
 
 <div id="header" align="start">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47epd1vo2xunmz1wz9ywy4ycfiohlwpoclwqy41482&rid=giphy.gif&ct=g" width="250"/>
+  <img width="650" height="320" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47epd1vo2xunmz1wz9ywy4ycfiohlwpoclwqy41482&rid=giphy.gif&ct=g" />
 </div>
 
-### I'm a **Frontend Developer** from Saint-Petersburg
+<h2 align="left"> I'm a Frontend Developer from Saint-Petersburg</h2>
 
- 💻 Working on Javascript, ReactJS, Node.js
--📘 Learning TypeScript
--🥰 Ask me about IT, travel and Genshin 
+💻 Working on Javascript, ReactJS, Node.js
+ </br>
+  </br>
+📘 Learning TypeScript 
+  </br> 
+  </br>
+🥰 Ask me about IT, travel and Genshin 
 
-### Connect with me:
+<h2 align="left">Connect with me:</h2>
+
 - <a href="https://t.me/Nemezida_Ok" target="blank">Telegram</a>
 - <a href="https://www.linkedin.com/in/anastasiya-shitenkova/" target="blank">LinkedIn</a>
 - <a href="corvusmilya@mail.ru" target="blank">E-mail</a>
 
-### Profile statistics:
-
+<h2 align="left">Profile statistics</h2>
 <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
 <img width="auto" src="https://github-readme-stats.vercel.app/api?username=Annastaasia">
 
-
-### Technologies:
+<h2 align="left">Technologies</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
