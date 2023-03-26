@@ -19,7 +19,8 @@ I'm a **Frontend Developer** from Saint-Petersburg
 - <a href="https://www.linkedin.com/in/anastasiya-shitenkova/" target="blank">LinkedIn</a>
 - <a href="corvusmilya@mail.ru" target="blank">E-mail</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&hide_progress=true)](https://github.com/Annastaasia/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
 
 [![Annastaasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annastaasia)](https://github.com/Annastaasia/github-readme-stats)
 
@@ -59,7 +60,6 @@ I'm a **Frontend Developer** from Saint-Petersburg
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    
   <img src="https://user-images.githubusercontent.com/108359930/221673475-270f0e21-5454-4eb7-9d1b-2340de1bec0b.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="React" width="40" height="40"/>&nbsp;
@@ -67,8 +67,16 @@ I'm a **Frontend Developer** from Saint-Petersburg
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
+### Visitor count:
+<img src="https://profile-counter.glitch.me/Annastaasia/count.svg"/>
+</br>
+</br>
+Thank you for visiting my profile 
 
-**Annastaasia/Annastaasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<!--**Annastaasia/Annastaasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -81,5 +89,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&hide_progress=true)](https://github.com/Annastaasia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Annastaasia/github-readme-stats)
 -->
