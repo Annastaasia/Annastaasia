@@ -23,8 +23,10 @@
 - <a href="corvusmilya@mail.ru" target="blank">E-mail</a>
 
 <h2 align="left">Profile statistics</h2>
-<img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
-<img width="auto" src="https://github-readme-stats.vercel.app/api?username=Annastaasia">
+<div>
+  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
+  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api?username=Annastaasia&hide=contribs,issues">
+</div>
 
 <h2 align="left">Technologies</h2>
 <div>
