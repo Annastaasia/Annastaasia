@@ -8,13 +8,13 @@
 
 <h2 align="left"> I'm a Frontend Developer from Saint-Petersburg</h2>
 
-💻 Working on Javascript, ReactJS, Node.js
+💻 Working on Javascript, ReactJS, Node.js ✅
  </br>
   </br>
-📘 Learning TypeScript 
+📘 Learning TypeScript 💪
   </br> 
   </br>
-🥰 Ask me about IT, travel and Genshin 
+🥰 Ask me about IT, travel and Genshin 💜
 
 <h2 align="left">Connect with me:</h2>
 
