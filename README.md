@@ -14,7 +14,7 @@
 📘 Learning TypeScript 💪
   </br> 
   </br>
-🥰 Ask me about IT, travel and Genshin 💜
+🥰 Ask me about art, travel and Genshin 💜
 
 <h2 align="left">Connect with me:</h2>
 
