@@ -16,8 +16,13 @@
   </br>
 🥰 Ask me about art, travel and Genshin 💜
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Profile statistics</h2>
+<div>
+  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
+  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api?username=Annastaasia&hide=contribs,issues">
+</div>
 
+<h2 align="left">Connect with me:</h2>
 <div>
 <a href="https://github.com/Annastaasia">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
@@ -28,12 +33,6 @@
  <a href="https://www.linkedin.com/in/anastasiya-shitenkova/">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="48" height="48" />
       </a>
-</div>
-
-<h2 align="left">Profile statistics</h2>
-<div>
-  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
-  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api?username=Annastaasia&hide=contribs,issues">
 </div>
 
 <h2 align="left">Technologies</h2>
