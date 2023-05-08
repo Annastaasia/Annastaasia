@@ -24,11 +24,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <div>
+   <a href="https://t.me/Nemezida_Ok">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' width="48" height="48" />
+      </a>
 <a href="https://github.com/Annastaasia">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
-      </a>
- <a href="https://t.me/Nemezida_Ok">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' width="48" height="48" />
       </a>
  <a href="https://www.linkedin.com/in/anastasiya-shitenkova/">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="48" height="48" />
