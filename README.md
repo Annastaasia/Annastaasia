@@ -8,7 +8,7 @@
 
 <h2 align="left"> I'm a Frontend Developer from Saint-Petersburg</h2>
 
-💻 Working on Javascript, ReactJS and Redux/Mobx ✅
+💻 Working on Javascript, ReactJS and Redux/Mobx/Context ✅
  </br>
   </br>
 📘 Learning TypeScript 💪
