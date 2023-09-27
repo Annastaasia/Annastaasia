@@ -18,7 +18,7 @@
 
 <h2 align="left">Profile statistics</h2>
 <div>
-  <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
+  
   <img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api?username=Annastaasia&hide=contribs,issues">
 </div>
 
@@ -172,6 +172,7 @@
 
 
 <!--
+<img width="auto" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annastaasia&layout=compact">
 :do:
 - 📖 I have a <a href="https://t.me/frontendzapiski" target="blank">channel</a> about frontend development
    
